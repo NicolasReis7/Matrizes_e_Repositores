@@ -28,7 +28,6 @@ int main() {
         }
     }
 
-    // Caso não encontre
     if(encontrado == 0) {
         printf("Numero nao encontrado.\n");
     }
