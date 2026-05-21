@@ -4,7 +4,6 @@ int main() {
 
     float matriz[3][3];
 
-    // Entrada dos elementos
     printf("Digite os elementos da matriz 3x3:\n");
 
     for(int i = 0; i < 3; i++) {
@@ -15,8 +14,7 @@ int main() {
 
         }
     }
-
-    // Exibe em ordem inversa
+    
     printf("\nElementos em ordem inversa:\n");
 
     for(int i = 2; i >= 0; i--) {
