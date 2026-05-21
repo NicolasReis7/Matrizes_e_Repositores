@@ -26,7 +26,6 @@ int main() {
         }
     }
 
-    // Resultado
     printf("\nMaior numero: %d\n", maior);
     printf("Menor numero: %d\n", menor);
 
