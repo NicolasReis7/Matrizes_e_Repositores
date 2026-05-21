@@ -25,7 +25,6 @@ int main() {
         printf("%3d ", vetor[i]);
     }
 
-    // Mostra o maior valor e posição
     printf("\n\nMaior numero: %d\n", maior);
     printf("Posicao: %d\n", posicao);
 
